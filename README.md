@@ -1,1 +1,2 @@
 # OWASP-Risk-Analyzer
+The OWASP Risk Calculator is a tool designed to help assess and quantify security risks in web applications according to OWASP (Open Web Application Security Project) standards. This project typically involves creating an interface where users input various risk factors, such as the likelihood of an attack, ease of exploit, impact on confidentiality, integrity, and availability. Based on these inputs, the calculator generates a risk score or categorizes the risk level (e.g., low, medium, high, critical).
